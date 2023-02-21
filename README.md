@@ -1,2 +1,2 @@
 # java-sandbox
-Contains programming files from Java development bootcamp.
+Contains my programming files completed in the Java Development Bootcamp.
